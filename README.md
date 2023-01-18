@@ -31,7 +31,7 @@ Install pandas library in cmd
 ## Read csv file
 
 ```bash
-```df=pd.read_csv('Fruit_Production.csv')
+   df=pd.read_csv('Fruit_Production.csv')
    df.head() 
 ```
 ### Checking null values
