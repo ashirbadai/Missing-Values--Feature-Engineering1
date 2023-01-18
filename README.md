@@ -6,7 +6,7 @@ I have taken a transactional dataset that contains information about various typ
 In this datset there are several missing values.Missing value handling is necessary in data science because missing data can affect the accuracy and reliability of analytical models and conclusions. Ignoring missing data can lead to biased or incorrect results.
 
 ## What are the different types of Missing Data?
-### Missing Completely at Random, MCAR:
+### MCAR, MNAR, MAR:
 
 1. A variable is missing completely at random (MCAR) if the probability of being missing is the same for all the observations. When data is MCAR, there is absolutely no relationship between the data missing and any other values, observed or missing, within the dataset. In other words, those missing data points are a random subset of the data. There is nothing systematic going on that makes some data more likely to be missing than other.
 
